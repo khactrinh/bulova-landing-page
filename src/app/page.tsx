@@ -29,6 +29,13 @@ export default function Home() {
       <Head>
         <title>Bulova 97C105 - Đồng Hồ Đàn Ông Lịch Lãm</title>
         <meta name="description" content="Sở hữu đồng hồ Bulova 97C105 chính hãng với giá chỉ 4.900.000 VNĐ. Thiết kế sang trọng, chống nước 50m, ship COD toàn quốc!" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index, follow" />
+        <meta property="og:title" content="Bulova 97C105 - Đồng Hồ Đàn Ông Lịch Lãm" />
+        <meta property="og:description" content="Sở hữu đồng hồ Bulova 97C105 chính hãng với giá chỉ 4.900.000 VNĐ. Thiết kế sang trọng, chống nước 50m, ship COD toàn quốc!" />
+        <meta property="og:image" content="/images/image1.jpg" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://bulova-landing-page-git-main-khactrinhs-projects.vercel.app" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
