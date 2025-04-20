@@ -122,7 +122,7 @@ export default function Home() {
       <section id="contact" className="bg-navy py-16 text-center text-white">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-6">Sở Hữu Bulova 97C105 Ngay!</h2>
-          <p className="text-xl mb-6">Chanh sả - Đẳng cấp - Chính hãng 100%</p>
+          <p className="text-xl mb-6">Sang trọng - Đẳng cấp - Chính hãng 100%</p>
           <p className="mb-4">📞 Gọi ngay: <a href="tel:0969313137" className="underline">0969 313 137</a></p>
           <p className="mb-6">🚚 Ship COD toàn quốc - Kiểm tra hàng trước khi trả tiền</p>
           <a href="tel:0969313137" className="bg-gold text-gray-900 font-semibold py-3 px-6 rounded-lg hover:bg-yellow-600 transition">
